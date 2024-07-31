@@ -1,0 +1,2 @@
+# sws-perc
+SWISSTRONIK TESTNET -PERC20
